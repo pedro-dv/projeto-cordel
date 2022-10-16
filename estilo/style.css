@@ -70,7 +70,7 @@ section.normal{
     color:black;
 }
 section.normal > p {
-    text-shadow: 2px 2px 0px rgba(128, 128, 128, 0.74);
+    text-shadow: 1px 1px 0px rgba(128, 128, 128, 0.74);
 }
 
 section.imagem{
@@ -84,9 +84,10 @@ section.imagem{
 section.imagem > p {
     display: inline-block;
     background-color: rgba(26, 25, 25, 0.568);
-    width: 400px;
+    width: 350px;
     text-shadow: 2px 2px 0px black;
     border-radius: 10px 10px;
+    
    
 }
 
